@@ -1,7 +1,7 @@
 # Best-Poker-Hand-Game
 "A Python poker game that evaluates hands, identifies the best possible hand from community cards, and compares player input to the optimal hand. Uses OOP, combinatorics, Counter, sorting, and threading to implement hand detection, ranking, and timed gameplay with normal and hard modes."
 
-Poker Hand Game
+
 
 This project is a Python-based poker game that simulates evaluating and comparing poker hands in a user-interactive environment. The game presents players with a set of five community cards and challenges them to determine the best possible hand by guessing two additional cards. The AI concurrently calculates the optimal hand from the same deck, allowing players to compete against a computer opponent. The game supports both normal and hard modes, with hard mode introducing a dynamic countdown timer to increase difficulty.
 
